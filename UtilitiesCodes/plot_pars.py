@@ -49,6 +49,22 @@ plotpars_3rows = {'axes.labelsize': 18,
                   'ytick.labelsize': 18,
                  }
 
+
+plotpars_2cols = {'axes.labelsize': 18,
+                  'axes.linewidth': 1.,
+                  'figure.figsize': (15, 4.),
+                  'font.size': 12,
+                  'legend.frameon': True,
+                  'legend.framealpha': 0.85,
+                  'legend.edgecolor': 'black',
+                  'legend.loc': 'best',
+                  'legend.fontsize': 12,
+                  'mathtext.fontset': 'stixsans',
+                  'savefig.bbox': 'tight',
+                  'xtick.labelsize': 15,
+                  'ytick.labelsize': 15,
+                 }
+
 # -------------------------------------------------------------------------
 # plot pars with fig. with 5 plots - only one line.
 
